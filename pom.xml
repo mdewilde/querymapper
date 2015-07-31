@@ -4,7 +4,7 @@
 	<packaging>jar</packaging>
 	<groupId>be.ceau</groupId>
 	<artifactId>querymapper</artifactId>
-	<version>0.5</version>
+	<version>0.5-SNAPSHOT</version>
 	<name>QueryMapper</name>
 	<description>QueryMapper is a Java library to map bean properties to SQL query clauses</description>
 	<url>http://www.ceau.be/querymapper.html</url>
