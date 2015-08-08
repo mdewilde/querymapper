@@ -7,7 +7,7 @@
 	<version>0.5-SNAPSHOT</version>
 	<name>QueryMapper</name>
 	<description>QueryMapper is a Java library to map bean properties to SQL query clauses</description>
-	<url>http://www.ceau.be/querymapper.html</url>
+	<url>https://www.ceau.be/querymapper.html</url>
 	<developers>
 		<developer>
 			<name>Marceau Dewilde</name>
